@@ -49,3 +49,16 @@ q00 é igual a i00 E i01
 
 # SFC (Sequenciamento grafico de funções) Fluxograma
 
+# Principais
+
+-Ton -> liga bobina após um tempo 
+-Tof -> desliga a bobina após um tempo 
+-TS -> deixa a bobina ligada durante um tempo
+-Add -> Soma
+-Mul -> Multiplicação
+-Sub -> Subtração
+-Div -> Divisão
+-Contato aberto -> passa energia após ser fechado 
+-Contato fechado -> corta energia após ser aberto
+-Set -> bobina é acionada e mantém 
+-Reset -> reseta e desliga a bobina que foi setada
